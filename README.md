@@ -14,6 +14,7 @@ for English to Hindi translation.
 - Custom BPE tokenizer trained on 1.49M parallel sentence pairs
 - Label smoothing and gradient clipping for stable training
 - Pytorch DDP training for multi-GPU setup.
+- Inference notebook with KV-Cache. 
 
 ## Results
 | Metric | Score |
